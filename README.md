@@ -31,8 +31,13 @@ This project is based on the paper by Khosla, Megha, Vinay Setty, and Avishek An
 In addition to the main paper, the following papers were studied to gain a deeper understanding of network representation learning methods:
 
 [Node2vec: Scalable Feature Learning for Networks](https://arxiv.org/abs/1607.00653)
+
 [Efficient Estimation of Word Representations in Vector Space](https://arxiv.org/abs/1301.3781)
+
 [DeepWalk: Online Learning of Social Representation](https://arxiv.org/abs/1403.6652)
+
 [Network Embedding as Matrix Factorization: Unifying DeepWalk, LINE, PTE, and node2vec](https://arxiv.org/abs/1710.02971)
+
 [LINE: Large-scale Information Network Embedding](https://arxiv.org/abs/1503.03578)
+
 [Inductive Representation Learning on Large Graphs](https://arxiv.org/abs/1706.02216)
